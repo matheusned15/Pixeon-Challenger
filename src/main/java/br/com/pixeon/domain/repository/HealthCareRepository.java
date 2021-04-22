@@ -7,7 +7,4 @@ import br.com.pixeon.domain.model.HealthcareInstitution;
 
 @Repository
 public interface HealthCareRepository extends JpaRepository<HealthcareInstitution, Long> {
-
-
-
 }

@@ -29,7 +29,6 @@ public class HealthcareInstitution extends BaseEntity {
 
 	private static final long serialVersionUID = 5469535228775424912L;
 
-	// @CNPJ
 	private String cnpj;
 
 	@NotNull
